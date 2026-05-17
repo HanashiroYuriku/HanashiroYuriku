@@ -35,9 +35,9 @@ An Informatics graduate from **Universitas Atma Jaya Yogyakarta** specializing i
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[furina](https://github.com/HanashiroYuriku/furina)** | A production-ready base template for Modular Monolith architectures in Go. | Go, Fiber, GORM |
+| **[furina](https://github.com/HanashiroYuriku/furina)** | A production-ready base template for Modular Monolith architectures in Go. | Go, Fiber, GORM, PostgreSQL |
 | **[robin](https://github.com/HanashiroYuriku/robin)** | A sleek Terminal User Interface (TUI) lyrics player built for the command line. | Go, Bubble Tea |
-| **[ayaka](https://github.com/HanashiroYuriku/ayaka)** | A backend service designed with strict adherence to Clean Architecture patterns. | Go, GORM, MySQL |
+| **[ayaka](https://github.com/HanashiroYuriku/ayaka)** | A backend service designed with strict adherence to Clean Architecture patterns. | Go, GORM, PostgreSQL |
 
 ---
 
