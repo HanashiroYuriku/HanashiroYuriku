@@ -54,6 +54,6 @@ An Informatics graduate from **Universitas Atma Jaya Yogyakarta** specializing i
 
 Let's discuss backend architecture, Go development, or potential opportunities!
 
-- **LinkedIn:** [linkedin.com/in/Dionisius-Geovanni-Caesario]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/dionisius-geovanni-caesario-1a5419225/))
+- **LinkedIn:** [linkedin.com/in/Dionisius-Geovanni-Caesario]([https://linkedin.com/in/dionisius-geovanni-caesario-1a5419225/e](https://www.linkedin.com/in/dionisius-geovanni-caesario-1a5419225/))
 - **Email:** [dionisiuscaesario@gmail.com](mailto:dionisiuscaesario@gmail.com)
 - **Portfolio/Website:** [dionisiuscaesario.vercel.app](https://dionisiuscaesario.vercel.app)
