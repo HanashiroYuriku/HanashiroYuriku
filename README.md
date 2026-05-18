@@ -47,7 +47,9 @@ An Informatics graduate from **Universitas Atma Jaya Yogyakarta** specializing i
 ![](https://github-readme-activity-graph.vercel.app/graph?username=HanashiroYuriku&theme=react-dark&bg_color=0d1117&hide_border=true)
 
 **GitHub Trophies**
-![](https://github-profile-trophies.vercel.app/?username=HanashiroYuriku&theme=onedark&column=5&margin-w=15&no-bg=true)
+
+
+![](https://github-profile-trophies.vercel.app/?username=HanashiroYuriku&theme=onedark&column=5&margin-w=25&no-bg=true)
 
 ---
 
