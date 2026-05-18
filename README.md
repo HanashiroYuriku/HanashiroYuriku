@@ -43,10 +43,8 @@ An Informatics graduate from **Universitas Atma Jaya Yogyakarta** specializing i
 
 ## GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HanashiroYuriku&show_icons=true&theme=reactive&hide_border=true" alt="HanashiroYuriku's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanashiroYuriku&layout=compact&theme=reactive&hide_border=true" alt="Top Languages" height="180px" />
-</p>
+**My Contributions & Activity**
+![](https://github-readme-activity-graph.vercel.app/graph?username=HanashiroYuriku&theme=react-dark&bg_color=0d1117&hide_border=true)
 
 ---
 
