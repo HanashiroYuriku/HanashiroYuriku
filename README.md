@@ -1,4 +1,4 @@
-# Hi there, I'm Dionisius Geovanni Caesario (HanashiroYuriku) 
+# Hi there, I'm Dionisius Geovanni Caesario | HanashiroYuriku
 ### Backend Engineer & Golang Enthusiast
 
 An Informatics graduate from **Universitas Atma Jaya Yogyakarta** specializing in backend development. I am deeply passionate about building scalable, maintainable, and high-performance applications, with a strong focus on **Clean Architecture** and **Modular Structures**.
