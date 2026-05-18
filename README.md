@@ -31,16 +31,6 @@ An Informatics graduate from **Universitas Atma Jaya Yogyakarta** specializing i
 
 ---
 
-## Featured Projects
-
-| Project Name | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[furina](https://github.com/HanashiroYuriku/furina)** | A lightweight, scalable backend service to track Genshin Impact character ascensions, weapon upgrades, and daily farming schedules. | Go, Fiber, GORM, PostgreSQL |
-| **[robin](https://github.com/HanashiroYuriku/robin)** | A sleek Terminal User Interface (TUI) lyrics player built for the command line. | Go, Bubble Tea |
-| **[ayaka](https://github.com/HanashiroYuriku/ayaka)** | A backend service designed with strict adherence to Clean Architecture patterns. | Go, GORM, PostgreSQL |
-
----
-
 ## GitHub Analytics
 
 **My Contributions & Activity**
@@ -60,3 +50,13 @@ Let's discuss backend architecture, Go development, or potential opportunities!
 - **LinkedIn:** [Dionisius Geovanni Caesario](https://www.linkedin.com/in/dionisius-geovanni-caesario-1a5419225/)
 - **Email:** [dionisiuscaesario@gmail.com](mailto:dionisiuscaesario@gmail.com)
 - **Portfolio/Website:** [dionisiuscaesario.vercel.app](https://dionisiuscaesario.vercel.app)
+
+---
+
+## Featured Projects
+
+| Project Name | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[furina](https://github.com/HanashiroYuriku/furina)** | A lightweight, scalable backend service to track Genshin Impact character ascensions, weapon upgrades, and daily farming schedules. | Go, Fiber, GORM, PostgreSQL |
+| **[robin](https://github.com/HanashiroYuriku/robin)** | A sleek Terminal User Interface (TUI) lyrics player built for the command line. | Go, Bubble Tea |
+| **[ayaka](https://github.com/HanashiroYuriku/ayaka)** | A backend service designed with strict adherence to Clean Architecture patterns. | Go, GORM, PostgreSQL |
