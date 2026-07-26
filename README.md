@@ -11,6 +11,7 @@ An Informatics graduate from **Universitas Atma Jaya Yogyakarta** specializing i
 
 ### Languages
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/Csharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -18,6 +19,10 @@ An Informatics graduate from **Universitas Atma Jaya Yogyakarta** specializing i
 ### Frameworks & Libraries
 ![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![GORM](https://img.shields.io/badge/GORM-Blue?style=for-the-badge)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![MediatR](https://img.shields.io/badge/MediatR%20(CQRS)-000000?style=for-the-badge)
+![Serilog](https://img.shields.io/badge/Serilog-F4B611?style=for-the-badge&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
@@ -56,6 +61,7 @@ Let's discuss backend architecture, Go development, or potential opportunities!
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **[Columbina](https://github.com/HanashiroYuriku/Columbina)** | A backend service designed with Clean Architecture, Vertical Slice Architecture, and CQRS Pattern. | .Net, MySQL, MediatR, RFC 7807, EF Core, Fluent API Configuration |
 | **[furina](https://github.com/HanashiroYuriku/furina)** | A lightweight, scalable backend service to track Genshin Impact character ascensions, weapon upgrades, and daily farming schedules. | Go, Fiber, GORM, PostgreSQL |
 | **[robin](https://github.com/HanashiroYuriku/robin)** | A sleek Terminal User Interface (TUI) lyrics player built for the command line. | Go, Bubble Tea |
 | **[ayaka](https://github.com/HanashiroYuriku/ayaka)** | A backend service designed with strict adherence to Clean Architecture patterns. | Go, GORM, PostgreSQL |
