@@ -61,7 +61,7 @@ Let's discuss backend architecture, Go development, or potential opportunities!
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Columbina](https://github.com/HanashiroYuriku/Columbina)** | A backend service designed with Clean Architecture, Vertical Slice Architecture, and CQRS Pattern. | .Net, MySQL, MediatR, RFC 7807, EF Core, Fluent API Configuration |
+| **[Columbina](https://github.com/HanashiroYuriku/Columbina)** | A backend service designed with Clean Architecture, Vertical Slice Architecture, and CQRS Pattern. | .Net, MySQL, Cortex.Mediator, RFC 7807, EF Core, Fluent API Configuration |
 | **[furina](https://github.com/HanashiroYuriku/furina)** | A lightweight, scalable backend service to track Genshin Impact character ascensions, weapon upgrades, and daily farming schedules. | Go, Fiber, GORM, PostgreSQL |
 | **[robin](https://github.com/HanashiroYuriku/robin)** | A sleek Terminal User Interface (TUI) lyrics player built for the command line. | Go, Bubble Tea |
 | **[ayaka](https://github.com/HanashiroYuriku/ayaka)** | A backend service designed with strict adherence to Clean Architecture patterns. | Go, GORM, PostgreSQL |
